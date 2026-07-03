@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Space Iraq",
+  "description": "الموقع الرسمي والقائمة التفاعلية لمقهى Space Iraq في تكريت. اطلب قهوتك المفضلة مباشرة عبر واتساب وتعرف على موقعنا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
